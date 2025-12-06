@@ -18,7 +18,7 @@
 
 //Solution
 
-import java.util.Stack;
+import java.util.Stack; 
 import java.util.Scanner;
 public class DuplicateBrackte {
     public static void main (String[] args){

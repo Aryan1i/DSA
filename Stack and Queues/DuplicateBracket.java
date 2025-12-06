@@ -44,13 +44,13 @@ public class DuplicateBrackte {
                 }
             } else {
                 st.push(ch);
-            }
-        }
+            } 
+        } 
 
         if(st.size()==0){
             System.out.println("True");
         } else {
             System.out.println("False");
         }
-    }
+    } 
 }

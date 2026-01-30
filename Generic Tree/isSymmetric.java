@@ -1,0 +1,36 @@
+//Problem
+
+/*Is Generic tree Symmetric*/
+
+//Solution
+
+import java.util.ArrayDeque;
+import java.util.ArrayList;
+import java.util.Queue;
+import java.util.Scanner;
+import java.util.Stack;
+import org.w3c.dom.Node;
+import java.util.Queue;
+
+public class GenericTreeConstrctor {
+
+    private static class Node {
+        int data;
+        ArrayList<Node> children = new ArrayList<>();
+    }
+
+    public static boolean areMirrorSimilar(Node n1,Node n2){
+        if (n1.children.size() != n2.children.size())return false;
+
+        for(int i=0;i<n1.children.size();i++){
+            boolean x=areMirrorSimilar(n1.children.get(i), n2.children.get(n1.children.size()-1-i));
+            if(x==false)return false;
+        }
+        return true;
+    }
+
+    public static boolean isSymmetric(Node node){
+        return areMirrorSimilar(node,node);
+    }
+
+}

@@ -1,59 +1,66 @@
-# 📘 Data Structures & Algorithms (DSA)
+# 💻 Data Structures & Algorithms
 
-This repository contains my practice and solutions for various **Data Structures and Algorithms problems**.
-I am consistently solving problems to strengthen my **problem-solving ability**, **coding skills**, and **interview preparation**.
+Welcome to my **DSA Repository**! 🚀
 
----
+This repository contains my Data Structures and Algorithms practice, featuring solutions to problems from platforms like **LeetCode, Codeforces, and other coding platforms**.
 
-## 📂 Topics Covered
+I use this repository to document my problem-solving journey, strengthen my understanding of core DSA concepts, and continuously improve my coding and algorithmic skills.
 
-Problems are organized topic-wise for better learning and revision:
+## 📚 Topics Covered
 
-* 📁 2D Array
-* 📁 Array
-* 📁 Binary Search Tree
-* 📁 Binary Tree
-* 📁 Bit Manipulation
-* 📁 Dynamic Programming
-* 📁 Generic Tree
-* 📁 Graphs
-* 📁 Hashmap and Heaps
-* 📁 Linked List
-* 📁 Math
-* 📁 Stack and Queues
-* 📁 String
+Problems are organized into folders based on their respective topics.
 
-Each folder contains multiple problems along with their optimized solutions.
+| # | Topic |
+|---|---|
+| 01 | Basics |
+| 02 | Arrays & 2D Arrays |
+| 03 | ArrayList |
+| 04 | Strings |
+| 05 | Recursion |
+| 06 | Bit Manipulation |
+| 07 | Mathematics |
+| 08 | Linked List |
+| 09 | Stack & Queues |
+| 10 | Deque |
+| 11 | Binary Trees |
+| 12 | Binary Search Trees |
+| 13 | Generic Trees |
+| 14 | Graphs |
+| 15 | HashMap & Heaps |
+| 16 | Priority Queue |
+| 17 | Greedy Algorithms |
+| 18 | Dynamic Programming |
+| 19 | Tries |
 
----
+## 🛠️ Tech Stack
 
-## 🎯 Purpose of This Repository
+- **Language:** Java ☕
+- **IDE:** Eclipse IDE / VS Code
+- **Version Control:** Git & GitHub
 
-✅ Build strong DSA foundation
-✅ Improve logical thinking and coding skills
-✅ Prepare for technical interviews
-✅ Maintain consistency in daily problem solving
-✅ Track my learning journey
+## 🎯 Goals
 
----
+- Build a strong foundation in Data Structures and Algorithms.
+- Improve problem-solving and logical thinking.
+- Learn and implement optimized algorithms.
+- Prepare for technical interviews and coding contests.
+- Maintain consistency in competitive programming.
+- Track my progress as a developer.
 
-## 💻 Programming Language
+## 👨‍💻 Coding Platforms
 
-* ☕ Java
+- [LeetCode](https://leetcode.com/u/_aryan1i/)
+- [Codeforces](https://codeforces.com/profile/aryan_1ii)
+- [HackerRank](https://www.hackerrank.com/profile/aryann_gupta_1ii)
 
-*(More languages may be added in future)*
+## 📈 My Philosophy
 
----
+> Consistency beats intensity. One problem at a time, one concept at a time.
 
-## 🚀 About My Practice
+Every problem I solve is another step toward becoming a better problem solver and software engineer.
 
-I regularly solve problems from platforms like **LeetCode**, **Codeforces**, and other coding resources.
-This repository reflects my continuous effort to become a better **software engineer and competitive programmer**.
+## ⭐ Support
 
----
+If you find this repository helpful, consider giving it a ⭐!
 
-⭐ If you find this repository useful, consider giving it a **star**.
-
-
-
-
+**Happy Coding!** 🚀
